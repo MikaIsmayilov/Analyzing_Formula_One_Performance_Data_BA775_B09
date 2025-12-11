@@ -8,3 +8,5 @@ This project explores three decades of Formula One racing data (1989–present) 
 [![Story 1 Preview](https://public.tableau.com/static/images/F1/F1Viz1/Story1/1.png)](https://public.tableau.com/views/F1Viz1/Story1?:showVizHome=no&:embed=true)
 ## 📊 Tableau Story 2
 [![Story 2 Preview](https://public.tableau.com/static/images/F1/F1Viz1/Story2/1.png)](https://public.tableau.com/views/F1Viz1/Story2?:showVizHome=no&:embed=true)
+## Slide Deck
+https://www.canva.com/design/DAG6lDLpzRE/NKY8fnydYSpXweMNw5eqQQ/view?utm_content=DAG6lDLpzRE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=habe5e2045c
